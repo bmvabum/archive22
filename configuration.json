@@ -1,6 +1,6 @@
 {
-    "mainTitle": "dit con me may",
-    "mainMessage": "Welcome to our photo gallery",
+    "mainTitle": "Ha tu linh",
+    "mainMessage": "bui thi nhan",
     "desTitle": "Our Photo Gallery",
     "desMessage": "Enjoy our beautiful memories together",
     "colors": {
@@ -14,8 +14,8 @@
     "imageExtension": ".JPG",
     "defaultImageCount": 4  ,
     "heartColor": "#00337c",
-    "passwordHint": "Enter the password to view the gallery",
-    "errorMessage": "Incorrect password",
-    "correctPassword": "2508",
+    "passwordHint": "Hint: dcmm",
+    "errorMessage": "ngu",
+    "correctPassword": "dcmm",
     "backgroundImage": "images/background.JPG"
 }
