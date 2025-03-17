@@ -2,7 +2,7 @@
     "mainTitle": "Bm and Bong's Photos Archive",
     "mainMessage": "Some more of our favorite memories",
     "desTitle": "Bm and Bong's Photos Archive",
-    "desMessage": "Hope you will remember how we have been so perfect for each other",
+    "desMessage": "Hope you will remember how we have been so perfect for each other. Done fell in love with you and always will.",
     "colors": {
         "primary": "#00337c",
         "primaryLight": "#4aaab6",
@@ -12,9 +12,9 @@
     },
     "imagesPath": "images/",
     "imageExtension": ".JPG",
-    "defaultImageCount": 4  ,
+    "defaultImageCount": 20  ,
     "heartColor": "#00337c",
-    "passwordHint": "Hint: the sum of your ... and ..., and also mine",
+    "passwordHint": "Hint: trang 4 của lá thư",
     "errorMessage": "Sai rùi đoán lại i.",
     "correctPassword": "22",
     "backgroundImage": "images/background.JPG"
