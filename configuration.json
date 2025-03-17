@@ -12,7 +12,7 @@
     },
     "imagesPath": "images/",
     "imageExtension": ".JPG",
-    "defaultImageCount": 20  ,
+    "defaultImageCount": 22  ,
     "heartColor": "#00337c",
     "passwordHint": "Hint: trang 4 của lá thư",
     "errorMessage": "Sai rùi đoán lại i.",
