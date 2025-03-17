@@ -1,8 +1,8 @@
 {
-    "mainTitle": "Ha tu linh",
-    "mainMessage": "bui thi nhan",
-    "desTitle": "Our Photo Gallery",
-    "desMessage": "Enjoy our beautiful memories together",
+    "mainTitle": "Bm and Bong's Photos Archive",
+    "mainMessage": "Some more of our favorite memories",
+    "desTitle": "Bm and Bong's Photos Archive",
+    "desMessage": "Hope you will remember how we have been so perfect for each other",
     "colors": {
         "primary": "#00337c",
         "primaryLight": "#4aaab6",
@@ -14,8 +14,8 @@
     "imageExtension": ".JPG",
     "defaultImageCount": 4  ,
     "heartColor": "#00337c",
-    "passwordHint": "Hint: dcmm",
-    "errorMessage": "ngu",
-    "correctPassword": "dcmm",
+    "passwordHint": "Hint: the sum of your ... and ..., and also mine",
+    "errorMessage": "Sai rùi đoán lại i.",
+    "correctPassword": "22",
     "backgroundImage": "images/background.JPG"
 }
